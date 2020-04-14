@@ -10,3 +10,4 @@ Using Python - either Anaconda jupyter-notebook or pycharm:
   chars_to_display - surrounding the matched string
   output_file - output file name, "console" for direct output
 3. Package the program to be distributed
+
